@@ -11,9 +11,11 @@ and Wearable Technology program.
 
 -   Measure heart rate (BPM)
 -   Measure blood oxygen saturation (SpO₂)
+-   Haptic alerts at multiple abnormal readings
 -   Transmit readings via Bluetooth (BLE)
--   Serial Monitor output for debugging
+-   Serial Monitor status messages
 -   Individual hardware test sketches
+-   Integrated prototype demonstration
 
 ## Software Requirements
 
